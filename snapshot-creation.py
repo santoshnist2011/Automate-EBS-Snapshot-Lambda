@@ -1,3 +1,4 @@
+#!/bin/python
 import boto3
 import collections
 import datetime
